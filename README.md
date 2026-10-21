@@ -1,0 +1,2 @@
+# Lexical-Architecture-in-Native-and-Multilingual-Academic-Writing-A-Pre-AI-Corpus-Study
+This study compares lexical patterns in pre-AI academic writing by native British English authors and advanced multilingual scholars. Using corpus analysis and Python-based statistical methods, it establishes a human baseline for lexical diversity and challenges deficit-based interpretations of multilingual writing and AI detection.
