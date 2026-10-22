@@ -1,0 +1,13 @@
+check,value
+workbook_L1_authors,41
+workbook_L1_authors_after_Jung_Chang_exclusion,40
+L1_workbook_authors_matched_in_L1_csv,40
+L1_authors_with_eligible_text_observations,37
+L1_eligible_text_observations,515
+workbook_L2_named_authors,45
+L2_named_authors_with_identifiable_essays_in_L2_csv,0
+L2_essays_in_csv,2
+MIN_AUTHORS_REQUIRED,40
+inferential_gate_L1_pass,False
+inferential_gate_L2_pass,False
+inferential_statistics_performed,False

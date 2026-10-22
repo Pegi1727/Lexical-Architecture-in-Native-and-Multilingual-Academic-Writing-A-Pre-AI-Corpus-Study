@@ -1,0 +1,1 @@
+Inferential analysis BLOCKED: L2 identifiable authors = 0 (< 40). L1 eligible authors = 37. No fabricated or imputed values were used.

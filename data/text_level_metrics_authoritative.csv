@@ -1,0 +1,518 @@
+token_count,vocab_size,mean_word_length,ttr,cttr,cohort,author,title,doc_type
+136,76,5.2941,0.558824,4.608177,L1,Svenja Adolphs,Lexical Coverage of Spoken Discourse,abstract_openalex
+145,89,5.4897,0.613793,5.22626,L1,Svenja Adolphs,Corpus and Context,abstract_openalex
+145,93,5.7379,0.641379,5.461148,L1,Svenja Adolphs,Introducing Pragmatics in Use,abstract_openalex
+187,110,5.3476,0.588235,5.687965,L1,Svenja Adolphs,Introducing Electronic Text Analysis,abstract_openalex
+265,135,5.3509,0.509434,5.864025,L1,Svenja Adolphs,Spoken Corpus Linguistics,abstract_openalex
+269,149,5.5651,0.553903,6.423846,L1,Svenja Adolphs,Introducing Pragmatics in Use,abstract_openalex
+130,90,5.3769,0.692308,5.581563,L1,Svenja Adolphs,Caught Between Professional Requirements and Interpersonal Needs: Vague Language in Healthcare Contexts,abstract_openalex
+225,125,5.1822,0.555556,5.892557,L1,Svenja Adolphs,"HeadTalk, HandTalk and the corpus: towards a framework for multi-modal, multi-media corpus development",abstract_openalex
+118,74,5.3729,0.627119,4.81699,L1,Svenja Adolphs,Multi-modal corpus pragmatics: The case of active listenership,abstract_openalex
+260,147,5.9731,0.565385,6.446376,L1,Svenja Adolphs,The reception of public health messages during the COVID-19 pandemic,abstract_openalex
+242,130,5.157,0.53719,5.909091,L1,Svenja Adolphs,CANELC: constructing an e-language corpus,abstract_openalex
+108,66,5.5926,0.611111,4.490731,L1,Svenja Adolphs,Building a spoken corpus: what are the basics?,abstract_openalex
+151,97,5.6821,0.642384,5.581723,L1,Svenja Adolphs,Capturing context for heterogeneous corpus analysis,abstract_openalex
+159,105,5.3711,0.660377,5.888108,L1,Svenja Adolphs,Indicating engagement in online workplace meetings,abstract_openalex
+174,117,5.6207,0.672414,6.271858,L1,Svenja Adolphs,Applying corpus linguistics in a health care context,abstract_openalex
+146,90,4.9658,0.616438,5.266852,L1,Svenja Adolphs,The meanings of ‘risk’: a view from corpus linguistics,abstract_openalex
+182,112,5.8022,0.615385,5.870395,L1,Svenja Adolphs,Role Models in Language Learning: Results of a Large-Scale International Survey,abstract_openalex
+1566,610,5.5696,0.389527,10.899811,L1,Svenja Adolphs,Ethics of Personalized Information Filtering,fulltext_pdf_oa
+268,140,5.6269,0.522388,6.047079,L1,Svenja Adolphs,Simulated patients versus manikins in acute‐care scenarios,abstract_openalex
+9950,1792,5.3179,0.180101,12.703151,L1,Charles Alderson,Developing the China Standards of English: challenges at macropolitical and micropolitical levels,fulltext_pdf_oa
+10502,2205,3.3619,0.20996,15.214497,L1,Charles Alderson,A jelenlegi angol érettségi vizsga.,fulltext_pdf_oa
+4681,2038,6.0991,0.435377,21.062982,L1,Charles Alderson,Toisella ja vieraalla kielellä lukemisen diagnosointi - DIALUKI-hankkeen teoreettisia ja käytännöllisiä lähtökohtia,fulltext_pdf_oa
+216,121,4.9954,0.560185,5.821615,L1,Charles Alderson,EN LA FORMACION DEFICIENTE DE DOCENTES ESTAN LOS PRINCIPALES PROBLEMAS DE APRENDIZAJE,abstract_openalex
+6400,2653,6.1573,0.414531,23.449429,L1,Charles Alderson,Laajan koululaisaineiston tutkimuseettiset haasteet,fulltext_pdf_oa
+257,147,5.7977,0.571984,6.483892,L1,Mark Allinson,Germany and Austria since 1814,abstract_openalex
+117,80,5.2051,0.683761,5.229764,L1,Mark Allinson,A Spanish Labyrinth,abstract_openalex
+183,128,5.5628,0.699454,6.690667,L1,Mark Allinson,"Life in the Army: Reported, Represented, Remembered",abstract_openalex
+204,122,5.4412,0.598039,6.0399,L1,Mark Allinson,Germany and Austria 1814-2000,abstract_openalex
+166,100,4.5843,0.60241,5.488213,L1,Mark Allinson,Alaska: Star of Stage and Screen and Optimistic Punk,abstract_openalex
+126,93,5.4603,0.738095,5.858449,L1,Mark Allinson,Is the auteur dead? The case of Juanma Bajo Ulloa,abstract_openalex
+130,82,5.3231,0.630769,5.085424,L1,Mark Allinson,More from Less: Ideological Gambling with the Unity of Economic and Social Policy in Honecker's GDR,abstract_openalex
+116,79,5.2586,0.681034,5.186604,L1,Mark Allinson,A Spanish Labyrinth: The Films of Pedro Almodóvar,abstract_openalex
+138,88,5.1159,0.637681,5.296978,L1,Mark Allinson,Politics on the streets: popular political culture in the Austrian First Republic,abstract_openalex
+257,140,5.2218,0.544747,6.175135,L1,David Appleyard,"The Horn of Africa: Ethiopia, Eritrea, Djibouti, and Somalia",abstract_openalex
+2434,764,5.6434,0.313887,10.9501,L1,David Appleyard,A descriptive outline of Kemant,fulltext_pdf_oa
+233,144,4.9871,0.618026,6.670671,L1,David Appleyard,A grammatical sketch of Khamtanga—I,abstract_openalex
+273,162,5.5531,0.593407,6.93296,L1,David Appleyard,Colloquial Amharic,abstract_openalex
+140,107,4.1357,0.764286,6.394473,L1,David Appleyard,A grammatical sketch of Khamtanga—II,abstract_openalex
+271,170,4.9373,0.627306,7.302125,L1,David Appleyard,The Role of Tone in Some Cushitic Languages.,abstract_openalex
+6717,1372,4.3304,0.204258,11.837267,L1,David Appleyard,An ‘Old Amharic’ Commentary on the Nicene Creed,fulltext_pdf_oa
+114,73,5.2281,0.640351,4.834543,L1,Robert Atkinson,Architecture at A-level,abstract_openalex
+126134,13221,4.9101,0.104817,26.322869,L1,Wendy Ayres-Bennett,Vaugelas and the Development of the French Language,fulltext_pdf_oa
+115,77,5.4261,0.669565,5.07723,L1,Wendy Ayres-Bennett,A History of the French Language through Texts,abstract_openalex
+153,101,5.6209,0.660131,5.773786,L1,Wendy Ayres-Bennett,Sociolinguistic Variation in Seventeenth-Century France,abstract_openalex
+11248,2507,5.1118,0.222884,16.714819,L1,Wendy Ayres-Bennett,"From Haugen’s codification to Thomas’s purism: assessing the role of description and prescription, prescriptivism and purism in linguistic standardisation",fulltext_pdf_oa
+150,102,5.62,0.68,5.888973,L1,Wendy Ayres-Bennett,Codification and prescription in linguistic standardisation,abstract_openalex
+10948,2294,4.3894,0.209536,15.502831,L1,Wendy Ayres-Bennett,La persistance de l’idéologie linguistique des remarqueurs dans les chroniques de langage de 1925 à nos jours,fulltext_pdf_oa
+144,83,5.2222,0.576389,4.890822,L1,Wendy Ayres-Bennett,"Women as authors, audience, and authorities in the French tradition",abstract_openalex
+171,109,4.5614,0.637427,5.894045,L1,Wendy Ayres-Bennett,Bon usage et variation sociolinguistique,abstract_openalex
+167,116,5.2814,0.694611,6.347238,L1,Wendy Ayres-Bennett,"Periodization, Translation, Prescription and the Emergence of Classical French",abstract_openalex
+140,82,5.7,0.585714,4.900437,L1,Wendy Ayres-Bennett,Problems and Perspectives: Studies in the Modern French Language,abstract_openalex
+183,119,5.0,0.650273,6.22023,L1,Wendy Ayres-Bennett,"9. Historical sociolinguistics and tracking language change: sources, text types and genres",abstract_openalex
+203,113,5.4433,0.55665,5.608096,L1,Wendy Ayres-Bennett,Modelling Language Standardization,abstract_openalex
+109,79,4.6789,0.724771,5.350555,L1,Wendy Ayres-Bennett,Voices from the Past: Sources of Seventeenth-Century Spoken French,abstract_openalex
+204,125,4.8873,0.612745,6.188422,L1,Wendy Ayres-Bennett,Les Compilations raisonnées des Remarques et Observations sur la langue française,abstract_openalex
+148,104,5.5608,0.702703,6.044877,L1,Wendy Ayres-Bennett,"0. Romance sociolinguistics: past, present, future",abstract_openalex
+159,97,6.0377,0.610063,5.43949,L1,Wendy Ayres-Bennett,Towards Interdisciplinarity in Multilingual Identity Research,abstract_openalex
+204,124,5.4559,0.607843,6.138915,L1,Wendy Ayres-Bennett,Women in the history of linguistics,abstract_openalex
+11248,2507,5.1118,0.222884,16.714819,L1,Wendy Ayres-Bennett,"From Haugen’s codification to Thomas’s purism: assessing the role of description and prescription, prescriptivism and purism in linguistic standardisation",fulltext_pdf_oa
+127,87,5.4961,0.685039,5.458866,L1,Wendy Ayres-Bennett,Reading theRemarqueurs,abstract_openalex
+124,82,5.7177,0.66129,5.207005,L1,Wendy Ayres-Bennett,From l’usage to le bon usage and back,abstract_openalex
+150,102,5.62,0.68,5.888973,L1,Wendy Ayres-Bennett,Codification and prescription in linguistic standardisation: Myths and models,abstract_openalex
+149,103,5.3289,0.691275,5.96663,L1,Wendy Ayres-Bennett,Presenting Grammar to a Non-Specialist Audience: Vaugelas's Use of Metaphors in hisRemarques sur la langue françoise(1647),abstract_openalex
+152,90,5.1974,0.592105,5.161854,L1,Wendy Ayres-Bennett,Language Policy and Planning,abstract_openalex
+354,207,4.7938,0.584746,7.779536,L1,"Sir Edmund Backhouse, 2nd Baronet",China Under the Empress Dowager (1910),paragraphs_book_source
+913,478,4.7788,0.523549,11.186069,L1,Robert Nisbet Bain,Turkish fairy tales and folk tales,fulltext_pdf_oa
+144,101,5.5833,0.701389,5.951482,L1,Paul Baker,"Fleeing, Sneaking, Flooding",abstract_openalex
+125,77,5.624,0.616,4.869908,L1,Paul Baker,Lexical bundles in L1 and L2 academic writing,abstract_openalex
+226,137,6.0265,0.606195,6.443938,L1,Paul Baker,Sociolinguistics and Corpus Linguistics,abstract_openalex
+149,107,5.6443,0.718121,6.198344,L1,Paul Baker,Discourse Analysis and Media Attitudes,abstract_openalex
+132,87,5.3939,0.659091,5.35448,L1,Paul Baker,A corpus-based approach to discourses of refugees and asylum seekers in UN and newspaper texts,abstract_openalex
+112,84,5.3929,0.75,5.612486,L1,Paul Baker,Querying Keywords,abstract_openalex
+194,134,6.2216,0.690722,6.802819,L1,Paul Baker,Contemporary Corpus Linguistics,abstract_openalex
+138,80,5.6377,0.57971,4.815434,L1,Paul Baker,A Glossary of Corpus Linguistics,abstract_openalex
+127,86,5.2756,0.677165,5.39612,L1,Paul Baker,Picking the right cherries? A comparison of corpus-based and qualitative analyses of news articles about masculinity,abstract_openalex
+104,78,5.6827,0.75,5.408327,L1,Paul Baker,Public Discourses of Gay Men,abstract_openalex
+113,83,5.531,0.734513,5.521078,L1,Paul Baker,Acceptable bias? Using corpus linguistics methods with critical discourse analysis,abstract_openalex
+349,156,5.7994,0.446991,5.904687,L1,Paul Baker,Using Corpora in Discourse Analysis,abstract_openalex
+142,98,5.7746,0.690141,5.81523,L1,Paul Baker,‘Why do white people have thin lips?’ Google and the perpetuation of stereotypes via auto-complete search forms,abstract_openalex
+138,86,5.1449,0.623188,5.176592,L1,Paul Baker,‘Unnatural Acts’: Discourses of homosexuality within the House of Lords debates on gay male law reform,abstract_openalex
+144,85,5.2083,0.590278,5.008673,L1,Paul Baker,The BE06 Corpus of British English and recent language change,abstract_openalex
+179,108,5.1844,0.603352,5.707977,L1,Paul Baker,Representations of Islam in British broadsheet and tabloid newspapers 1999–2005,abstract_openalex
+135,92,6.0074,0.681481,5.598942,L1,Paul Baker,"Times May Change, But We Will Always Have Money: Diachronic Variation in Recent British English",abstract_openalex
+11101,2024,4.8221,0.182326,13.583587,L1,Paul Baker,American and British English,fulltext_pdf_oa
+169,116,5.6331,0.686391,6.309568,L1,Paul Baker,"Investigating Criterial Discourse Features across Second Language Development: Lexical Bundles in Rated Learner Essays, CEFR B1, B2 and C1",abstract_openalex
+287,162,6.0383,0.56446,6.761749,L1,Paul Baker,What does patient feedback reveal about the NHS? A mixed methods study of comments posted to the NHS Choices online service,abstract_openalex
+251,131,6.5219,0.521912,5.846816,L1,Paul Baker,Generative AI for corpus approaches to discourse studies: A critical evaluation of ChatGPT,abstract_openalex
+179,114,5.2514,0.636872,6.025087,L1,Paul Baker,Who Benefits When Discourse Gets Democratised? Analysing a Twitter Corpus around the British Benefits Street Debate,abstract_openalex
+145,103,5.5724,0.710345,6.048368,L1,Paul Baker,The hate that dare not speak its name?,abstract_openalex
+149,107,5.6443,0.718121,6.198344,L1,Paul Baker,Discourse Analysis and Media Attitudes: The Representation of Islam in the British Press,abstract_openalex
+156,100,5.4295,0.641026,5.661385,L1,Christopher Ball,Review of Sustainability Assessment Approaches Based on Life Cycles,abstract_openalex
+7717,1612,5.1031,0.208889,12.97555,L1,Christopher Ball,Levelized profits for residential PV-battery systems and the role of regulatory and fiscal aspects in Germany,fulltext_pdf_oa
+128,86,5.0156,0.671875,5.375,L1,Christopher Ball,″Learning Pays″,abstract_openalex
+177,109,5.8136,0.615819,5.793285,L1,Christopher Ball,Analyzing Brexit: Implications for the Electricity System of Great Britain,abstract_openalex
+10443,2027,4.92,0.194101,14.025751,L1,Christopher Ball,Electricity market relationship between Great Britain and its neighbors: distributional effects of Brexit,fulltext_pdf_oa
+233,133,5.03,0.570815,6.161106,L1,Christopher Ball,The Triple Alliance: what went wrong? What can be done?,abstract_openalex
+179,109,5.2402,0.608939,5.760829,L1,Christopher Ball,"The Merging of the PCFC and the UFC: Probable, Desirable or Inevitable?",abstract_openalex
+420,164,5.5429,0.390476,5.658538,L1,David Barton,Donanemab in Early Symptomatic Alzheimer Disease,abstract_openalex
+161,99,5.6025,0.614907,5.517054,L1,David Barton,Situated literacies : reading and writing in context,abstract_openalex
+124,74,5.3387,0.596774,4.699005,L1,David Barton,Local Literacies,abstract_openalex
+148,98,5.7432,0.662162,5.696134,L1,David Barton,Beyond Communities of Practice: Language Power and Social Context,abstract_openalex
+172,101,5.2442,0.587209,5.445555,L1,David Barton,Language Online,abstract_openalex
+202,106,5.3465,0.524752,5.273697,L1,David Barton,Directions for Literacy Research: Analysing Language and Social Practices in a Textually Mediated World,abstract_openalex
+135,91,5.2889,0.674074,5.538084,L1,David Barton,"Literacy, Lives and Learning",abstract_openalex
+228,126,5.1096,0.552632,5.900491,L1,David Barton,"Literacy, reification and the dynamics of social interaction",abstract_openalex
+147,92,5.8367,0.62585,5.365549,L1,David Barton,Researching Language and Social Media,abstract_openalex
+250,148,5.668,0.592,6.618761,L1,David Barton,Improving Learning in College,abstract_openalex
+171,109,5.5614,0.637427,5.894045,L1,David Barton,Researching Language and Social Media: A Student Guide,abstract_openalex
+412,197,5.7524,0.478155,6.86282,L1,David Barton,Deferiprone in Alzheimer Disease,abstract_openalex
+8032,1793,5.29,0.223232,14.146645,L1,David Barton,Efficacy and safety of a 4-week course of repeated subcutaneous ketamine injections for treatment-resistant depression (KADS study): randomised double-blind active-controlled trial,fulltext_pdf_oa
+199,115,5.2513,0.577889,5.764429,L1,David Barton,Local Literacies,abstract_openalex
+181,112,5.4862,0.618785,5.886589,L1,David Barton,Understanding Textual Practices in a Changing World,abstract_openalex
+148,93,5.6892,0.628378,5.405515,L1,David Barton,Constructing Glocal Identities Through Multilingual Writing Practices on Flickr.com®,abstract_openalex
+6352,1439,5.279,0.226543,12.76705,L1,David Barton,Extended-release ketamine tablets for treatment-resistant depression: a randomized placebo-controlled phase 2 trial,fulltext_pdf_oa
+174,102,5.2471,0.586207,5.467774,L1,David Barton,The texts of everyday life: public and private identities in vernacular literacy practices,abstract_openalex
+214,128,4.743,0.598131,6.187114,L1,David Barton,Tagging on Flickr as a social practice,abstract_openalex
+293,151,5.9659,0.515358,6.237753,L1,David Barton,Human Sympathetic Nerve Biology,abstract_openalex
+219,120,5.6941,0.547945,5.733822,L1,David Barton,Short-term heart rate variability and cardiac norepinephrine spillover in patients with depression and panic disorder,abstract_openalex
+131,85,5.3053,0.648855,5.251318,L1,David Barton,Models of Adult Learning: A Literature Review,abstract_openalex
+9074,1856,4.4802,0.20454,13.777283,L1,David Barton,La littératie : une pratique sociale,fulltext_pdf_oa
+257,125,5.8249,0.486381,5.513514,L1,David Barton,QT interval variability and cardiac norepinephrine spillover in patients with depression and panic disorder,abstract_openalex
+172,100,5.4186,0.581395,5.391639,L1,David Barton,Redefining Vernacular Literacies in the Age of Web 2.0,abstract_openalex
+271,129,5.2214,0.476015,5.541024,L1,Thomas Batchelor,"Prenatal and Early, but Not Late, Postnatal Exposure of Mice to Sidestream Tobacco Smoke Increases Airway Hyperresponsiveness Later in Life",abstract_openalex
+247,135,5.8988,0.546559,6.073937,L1,Thomas Batchelor,Maternal Engineered Nanomaterial Inhalation During Gestation Disrupts Vascular Kisspeptin Reactivity,abstract_openalex
+9940,2421,5.1662,0.243561,17.170645,L1,Thomas Batchelor,Nano-titanium dioxide inhalation exposure during gestation drives redox dysregulation and vascular dysfunction across generations,fulltext_pdf_oa
+4443,1457,5.4423,0.327932,15.456331,L1,Thomas Batchelor,Whole-body inhalation of nano-sized carbon black: a surrogate model of military burn pit exposure,fulltext_pdf_oa
+3167,979,5.3852,0.309125,12.301092,L1,Thomas Batchelor,Maternal Nanomaterial Inhalation Exposure: Critical Gestational Period in the Uterine Microcirculation is Angiotensin II Dependent,fulltext_pdf_oa
+7807,1886,5.2751,0.241578,15.093314,L1,Thomas Batchelor,Group II innate lymphoid cells and microvascular dysfunction from pulmonary titanium dioxide nanoparticle exposure,fulltext_pdf_oa
+236,143,6.0466,0.605932,6.582109,L1,Thomas Batchelor,Nanomaterial Inhalation During Pregnancy Alters Systemic Vascular Function in a Cyclooxygenase-Dependent Manner,abstract_openalex
+9064,1707,5.0352,0.188327,12.678229,L1,Thomas Batchelor,Maternal nano-titanium dioxide inhalation alters fetoplacental outcomes in a sexually dimorphic manner,fulltext_pdf_oa
+247,153,5.8623,0.619433,6.883795,L1,Thomas Batchelor,Establishing a novel combustion generator system to simulate and study emissions from diverse applications,abstract_openalex
+327,180,6.0183,0.550459,7.038557,L1,Thomas Batchelor,"The alarmin, interleukin‐33, increases vascular tone via extracellular signal regulated kinase‐mediated Ca2+ sensitization and endothelial nitric oxide synthase inhibition",abstract_openalex
+2361,609,5.0241,0.257942,8.86246,L1,Thomas Batchelor,Effects of Pre- and Post-natal smoke exposure on airway neural responses,fulltext_pdf_oa
+208,110,5.5385,0.528846,5.393194,L1,Thomas Batchelor,Increased neuropeptide Y innervation in the airway epithelium of mice overexpressing Nerve Growth Factor,abstract_openalex
+9145,2101,5.3302,0.229743,15.535284,L1,Thomas Batchelor,Maternal Engineered Nanomaterial Inhalation During Gestation Drives Redox Dysregulation and Vascular Dysfunction Across Generations,fulltext_pdf_oa
+12351,2914,5.1891,0.235932,18.540587,L1,Thomas Batchelor,Inhalation exposure to surrogate military burn pit emissions impairs systemic microvascular function: linking pulmonary insult and diverse peripheral responses,fulltext_pdf_oa
+268,166,5.2276,0.619403,7.170108,L1,Thomas Batchelor,Dim light at night modulates neuroimmune and clock gene responses to burn pit emission inhalation exposure in mice,abstract_openalex
+339,165,5.882,0.486726,6.336787,L1,Judith Baxter,Executive Cognitive Abilities and Functional Status Among Community‐Dwelling Older Persons in the San Luis Valley Health and Aging Study,abstract_openalex
+127,91,6.2598,0.716535,5.709848,L1,Judith Baxter,Self-rated health among Hispanic vs non-Hispanic white adults: the San Luis Valley Health and Aging Study.,abstract_openalex
+261,137,5.4291,0.524904,5.996327,L1,Judith Baxter,Cost and Cost-effectiveness of Large-scale Screening for Type 1 Diabetes in Colorado,abstract_openalex
+249,130,5.1044,0.522088,5.825439,L1,Judith Baxter,Predicting Islet Cell Autoimmunity and Type 1 Diabetes: An 8-Year TEDDY Study Progress Report,abstract_openalex
+257,135,5.3152,0.525292,5.954595,L1,Judith Baxter,CGM Metrics Predict Imminent Progression to Type 1 Diabetes: Autoimmunity Screening for Kids (ASK) Study,abstract_openalex
+319,119,5.1066,0.373041,4.711255,L1,Judith Baxter,Hierarchical Order of Distinct Autoantibody Spreading and Progression to Type 1 Diabetes in the TEDDY Study,abstract_openalex
+260,123,5.6615,0.473077,5.393907,L1,Judith Baxter,Predictors of the Initiation of Islet Autoimmunity and Progression to Multiple Autoantibodies and Clinical Diabetes: The TEDDY Study,abstract_openalex
+241,139,5.2697,0.576763,6.331277,L1,Judith Baxter,Mass Screening for Celiac Disease: The Autoimmunity Screening for Kids Study,abstract_openalex
+237,113,5.2447,0.476793,5.190262,L1,Judith Baxter,Anxiety and Risk Perception in Parents of Children Identified by Population Screening as High Risk for Type 1 Diabetes,abstract_openalex
+211,118,5.5877,0.559242,5.74415,L1,Judith Baxter,"High-Fat, Low-Carbohydrate Diet and the Etiology of Non-Insulin-dependent Diabetes Mellitus: The San Luis Valley Diabetes Study",abstract_openalex
+281,125,5.3488,0.44484,5.272807,L1,Judith Baxter,Relationship Between Habitual Physical Activity and Insulin Levels Among Nondiabetic Men and Women: San Luis Valley Diabetes Study,abstract_openalex
+229,128,6.048,0.558952,5.981047,L1,Judith Baxter,Risk Factors For Distal Symmetric Neuropathy in NIDDM: The San Luis Valley Diabetes Study,abstract_openalex
+187,93,5.7647,0.497326,4.808916,L1,Judith Baxter,Depressive Symptoms in Hispanic and Non-Hispanic White Rural Elderly The San Luis Valley Health and Aging Study,abstract_openalex
+205,101,5.5805,0.492683,4.988034,L1,Judith Baxter,An Age-Related Exponential Decline in the Risk of Multiple Islet Autoantibody Seroconversion During Childhood,abstract_openalex
+239,119,5.1548,0.497908,5.442933,L1,Judith Baxter,Accuracy of Reported Family History of Diabetes Mellitus: Results From San Luis Valley Diabetes Study,abstract_openalex
+212,123,5.9057,0.580189,5.973408,L1,Judith Baxter,Time-Resolved Autoantibody Profiling Facilitates Stratification of Preclinical Type 1 Diabetes in Children,abstract_openalex
+7127,1743,5.016,0.244563,14.599198,L1,Judith Baxter,Complement gene variants in relation to autoantibodies to beta cell specific antigens and type 1 diabetes in the TEDDY Study,fulltext_pdf_oa
+8027,2003,5.4466,0.249533,15.808451,L1,Judith Baxter,Metabolite-related dietary patterns and the development of islet autoimmunity,fulltext_pdf_oa
+279,134,5.1792,0.480287,5.672672,L1,Judith Baxter,Rising Hemoglobin A1c in the Nondiabetic Range Predicts Progression of Type 1 Diabetes As Well As Oral Glucose Tolerance Tests,abstract_openalex
+202,102,5.5545,0.50495,5.07469,L1,Judith Baxter,Physical Activity and the Development of Islet Autoimmunity and Type 1 Diabetes in 5- to 15-Year-Old Children Followed in the TEDDY Study,abstract_openalex
+205,97,4.8927,0.473171,4.790489,L1,Judith Baxter,Gastrointestinal Infections Modulate the Risk for Insulin Autoantibodies as the First-Appearing Autoantibody in the TEDDY Study,abstract_openalex
+252,117,5.4563,0.464286,5.211594,L1,Judith Baxter,Prevalence and Risk Factors of Diabetic Retinopathy in Non-Hispanic Whites and Hispanics With NIDDM: San Luis Valley Diabetes Study,abstract_openalex
+317,169,5.6656,0.533123,6.711847,L1,Judith Baxter,CARDIOVASCULAR RISK FACTORS AND IMPAIRED GLUCOSE TOLERANCE: THE SAN LUIS VALLEY DIABETES STUDY,abstract_openalex
+218,113,5.9541,0.518349,5.411719,L1,Judith Baxter,Is the risk of coronary heart disease lower in Hispanics than in non-Hispanic whites? The San Luis Valley Diabetes Study.,abstract_openalex
+246,121,5.6585,0.49187,5.455101,L1,Judith Baxter,Ethnic Differences in Risk Factors Associated with the Prevalence of Non-insulin-dependent Diabetes Mellitus,abstract_openalex
+206,107,5.3981,0.519417,5.271512,L1,Judith Baxter,COMPARABILITY OF MORTALITY FOLLOW-UP BEFORE AND AFTER THE NATIONAL DEATH INDEX,abstract_openalex
+227,122,6.2026,0.537445,5.725744,L1,Judith Baxter,Chronic Pain Increases the Risk of Decreasing Physical Performance in Older Adults: The San Luis Valley Health and Aging Study,abstract_openalex
+211,118,5.6872,0.559242,5.74415,L1,Judith Baxter,The impact of executive cognitive functioning on rates of smoking cessation in the San Luis Valley Health and Aging Study,abstract_openalex
+112,81,5.4911,0.723214,5.41204,L1,Judith Baxter,Prevalence of Disorders of Executive Cognitive Functioning among the Elderly: Findings from the San Luis Valley Health and Aging Study,abstract_openalex
+139,98,5.3669,0.705036,5.877649,L1,John Beames,Comparative Grammar of the Modern Aryan Languages of India,abstract_openalex
+139,95,5.2302,0.683453,5.697721,L1,John Beames,Comparative Grammar of the Modern Aryan Languages of India,abstract_openalex
+140,91,5.2714,0.65,5.43829,L1,John Beames,Comparative Grammar of the Modern Aryan Languages of India,abstract_openalex
+139,98,5.3669,0.705036,5.877649,L1,John Beames,"Comparative grammar of the modern Aryan languages: Of India to wit, Hindi, Panjabi, Sindhi, Gujarati, Marathi, Oriya and Bengali",abstract_openalex
+2604,817,5.4892,0.313748,11.321046,L1,John Beames,"Art. XIV.—Notes on the Bhojpurí Dialect of Hindi, spoken in Western Behar",fulltext_pdf_oa
+1049,497,4.4185,0.473785,10.850597,L1,John Beames,3. Mahuan's Account of Bengal,fulltext_pdf_oa
+236,150,4.1695,0.635593,6.90431,L1,John Beames,Art. IV.—On the Magar Language of Nepal,abstract_openalex
+1007,458,4.5124,0.454816,10.205534,L1,John Beames,3. The Saint Pir Badar,fulltext_pdf_oa
+2586,796,5.4227,0.307811,11.068374,L1,John Beames,Art. VIII.—On the Treatment of the Nexus in the Neo-Âryan Languages of India,fulltext_pdf_oa
+523,288,4.6616,0.550669,8.904851,L1,John Beames,1. Rajuka or Lajuka,fulltext_pdf_oa
+143,96,4.3007,0.671329,5.676599,L1,John Beames,"Art. XVII.—Notes on Akbar's Súbahs, with reference to the Áin-i Akbarí",abstract_openalex
+2497,771,5.5062,0.308771,10.910135,L1,John Beames,Art. XXVIII.—The Geography of the Kandahár Inscription,fulltext_pdf_oa
+4633,1224,5.3367,0.264192,12.715554,L1,David Beaver,When Small Words Foretell Academic Success: The Case of College Admissions Essays,fulltext_pdf_oa
+7713,1531,4.9896,0.198496,12.326748,L1,David Beaver,What projects and why,fulltext_pdf_oa
+4245,1290,5.972,0.303887,14.000252,L1,David Beaver,Toward a Taxonomy of Projective Content,fulltext_pdf_oa
+117,75,4.5556,0.641026,4.902903,L1,David Beaver,When semantics meets phonetics: Acoustical studies of second-occurrence focus,abstract_openalex
+155,97,5.271,0.625806,5.50923,L1,David Beaver,Principles of the Exclusive Muddle,abstract_openalex
+108,76,5.6204,0.703704,5.171145,L1,David Beaver,Questions Under Discussion: Where Information Structure Meets Projective Content,abstract_openalex
+7427,1255,4.6817,0.168978,10.297268,L1,David Beaver,It-clefts are IT (Inquiry Terminating) constructions,fulltext_pdf_oa
+2737,969,5.5374,0.354037,13.096987,L1,David Beaver,"The NXT-format Switchboard Corpus: a rich resource for investigating the syntax, semantics, pragmatics and prosody of dialogue",fulltext_pdf_oa
+27157,3008,4.6911,0.110763,12.9069,L1,David Beaver,Definiteness and determinacy,fulltext_pdf_oa
+7081,1333,4.9859,0.18825,11.201285,L1,David Beaver,Hungarian focus is not exhausted,fulltext_pdf_oa
+186,105,5.5538,0.564516,5.443996,L1,David Beaver,How Projective is Projective Content? Gradience in Projectivity and At-issueness,abstract_openalex
+162,114,5.4136,0.703704,6.333333,L1,David Beaver,3: Have You Noticed that Your Belly Button Lint Color is Related to the Color of Your Clothing?,abstract_openalex
+8380,1508,4.7091,0.179952,11.648348,L1,David Beaver,A Uniform Analysis of 'Before' and 'After',fulltext_pdf_oa
+14193,2063,4.4434,0.145353,12.244671,L1,David Beaver,When Variables Don't Vary Enough,fulltext_pdf_oa
+1339,505,5.5833,0.377147,9.758568,L1,David Beaver,Vagueness Is Rational under Uncertainty,fulltext_pdf_oa
+121,85,5.8843,0.702479,5.464007,L1,David Beaver,THE (NON)UTILITY OF LINGUISTIC FEATURES FOR PREDICTING PROMINENCE IN SPONTANEOUS SPEECH,abstract_openalex
+10297,2009,5.0913,0.195105,13.999405,L1,David Beaver,Bad Subject: (Non-)canonicality and NP Distribution in Existentials,fulltext_pdf_oa
+142,93,5.8239,0.65493,5.518535,L1,David Beaver,Presupposition and partiality: Back to the future,abstract_openalex
+115,78,4.4435,0.678261,5.143168,L1,Cecil Bendall,Art. X.—The Megha-Sūtra,abstract_openalex
+93769,13649,4.3737,0.14556,31.517822,L1,Cecil Bendall,Catalogue of the Sanskrit Manuscripts in the British Museum,fulltext_pdf_oa
+3164,972,5.1694,0.307206,12.218926,L1,Cecil Bendall,"Art. XIII.—The Tantrākhyāna, a Collection of Indian Folklore, from a unique Sanskrit MS. discovered in Nepal",fulltext_pdf_oa
+259,163,4.9035,0.629344,7.161809,L1,Cecil Bendall,2. Pāli Suttas Printed in Ceylon,fulltext_pdf_oa
+482,273,4.9315,0.56639,8.792738,L1,Cecil Bendall,1. A Remnant (?) of Buddhism in India,fulltext_pdf_oa
+1931,862,4.8462,0.446401,13.870788,L1,Cecil Bendall,5. Ancient Indian Sects and Orders mentioned by Buddhist Writers,fulltext_pdf_oa
+104,72,3.8942,0.692308,4.992302,L1,Cecil Bendall,Art. XX.—An Inscription of Madanapāladeva of Kananj,abstract_openalex
+4620,1453,4.6026,0.314502,15.115748,L1,Cecil Bendall,III. Notes and News,fulltext_pdf_oa
+786,399,4.9351,0.507634,10.063444,L1,Cecil Bendall,2. Nepal MSS.,fulltext_pdf_oa
+2173,663,5.7225,0.305108,10.057005,L1,Cecil Bendall,Art. XXI.—On a system of Letter-numerals used in South India,fulltext_pdf_oa
+2395,699,5.6038,0.291858,10.099722,L1,Cecil Bendall,"Notes on a Collection of MSS. Obtained by Dr. Gimlette, of the Bengal Medical Service, at Kathmandu, and now deposited in the Cambridge Univeristy Library, and in the British Museum",fulltext_pdf_oa
+1943,801,4.8085,0.412249,12.849349,L1,Cecil Bendall,III. Obituary Notices,fulltext_pdf_oa
+298,182,4.6275,0.610738,7.45501,L1,Cecil Bendall,2. Pāli MSS. in Nepal,fulltext_pdf_oa
+190,143,5.0053,0.752632,7.335745,L1,Cecil Bendall,Kālidāsa in Ceylon,fulltext_pdf_oa
+1214,516,4.696,0.425041,10.471897,L1,Cecil Bendall,3. Mâdhava and Sâyaṇa,fulltext_pdf_oa
+2322,648,5.5758,0.27907,9.50887,L1,Cecil Bendall,"V. Reviews - The Bústán of Shaikh Muṣliḥu'd-dín S'adí, photographed from a MS. prepared under the superintendence of J. T. Platts. M.A.; further collected with original MSS. and annotated by A. Rogers, Bambay Civil Service (London: W. H. Allen & Co., 1891.)",fulltext_pdf_oa
+128,70,4.8984,0.546875,4.375,L1,John Bendor-Samuel,A structure-function description of Terena phrases,abstract_openalex
+278,135,4.8777,0.485612,5.725275,L1,John Bendor-Samuel,The structure and function of the verbal piece in the Jebero language.,abstract_openalex
+268,154,5.8134,0.574627,6.651787,L1,Bethan Benwell,Discourse and Identity,abstract_openalex
+243,144,5.963,0.592593,6.531973,L1,Bethan Benwell,Masculinity and men's lifestyle magazines,abstract_openalex
+136,80,5.2426,0.588235,4.850713,L1,Bethan Benwell,Ironic Discourse,abstract_openalex
+152,108,5.8421,0.710526,6.194225,L1,Bethan Benwell,Constructing discussion tasks in university tutorials: shifting dynamics and identities,abstract_openalex
+149,95,5.5705,0.637584,5.503202,L1,Bethan Benwell,Should we share qualitative data? Epistemological and practical insights from conversation analysis,abstract_openalex
+11776,2387,5.2283,0.2027,15.553872,L1,Bethan Benwell,‘Lucky this is anonymous.’ Ethnographies of reception in men’s magazines: a ‘textual culture’ approach,fulltext_pdf_oa
+226,128,5.3319,0.566372,6.020614,L1,Bethan Benwell,NEW SEXISM?,abstract_openalex
+133,94,5.3985,0.706767,5.76351,L1,Bethan Benwell,University Students Resisting Academic Identity,abstract_openalex
+140,96,5.9786,0.685714,5.737097,L1,Bethan Benwell,‘A pathetic and racist and awful character’: ethnomethodological approaches to the reception of diasporic fiction,abstract_openalex
+8570,1814,5.0043,0.211669,13.855809,L1,Bethan Benwell,Keeping “Small Talk” Small in Health-Care Encounters: Negotiating the Boundaries Between On- and Off-Task Talk,fulltext_pdf_oa
+9010,2339,5.3766,0.2596,17.424199,L1,Bethan Benwell,Traumatic journeys; understanding the rhetoric of patients’ complaints,fulltext_pdf_oa
+8078,2113,5.3549,0.261575,16.623887,L1,Bethan Benwell,A qualitative study of National Health Service (NHS) complaint-responses,fulltext_pdf_oa
+132,75,5.4242,0.568182,4.615931,L1,Bethan Benwell,Accessing and Using Data without Informed Consent: Guiding Principles from Conversation Analysis,abstract_openalex
+8327,1938,4.9685,0.232737,15.017391,L1,Bethan Benwell,Common-sense anti-racism in book group talk: The role of reported speech,fulltext_pdf_oa
+213,124,5.5681,0.58216,6.00782,L1,Bethan Benwell,Masculine Identity and Identification as Ethnomethodological Phenomena,abstract_openalex
+186,128,5.4677,0.688172,6.636491,L1,Bethan Benwell,Reading the reading experience: an ethnomethodological approach to 'booktalk',abstract_openalex
+132,82,5.7121,0.621212,5.046751,L1,Bethan Benwell,Phase Structure and Resistance to Progressivity in Complaints Calls to the NHS,abstract_openalex
+185,111,5.9081,0.6,5.770615,L1,Bethan Benwell,Why affiliation matters: A conversation analysis of complaints calls to the NHS,abstract_openalex
+617,280,5.3971,0.453809,7.970773,L1,Bethan Benwell,Not Reading Brick Lane,abstract_openalex
+200,117,5.205,0.585,5.85,L1,Bethan Benwell,Reading as a Social Practice: Race Talk,abstract_openalex
+250,155,5.568,0.62,6.931811,L1,Bethan Benwell,Theorising Discourse and Identity,abstract_openalex
+220,144,4.4636,0.654545,6.864931,L1,David Crystal,Prologue,abstract_openalex
+189,117,4.8995,0.619048,6.017831,L1,David Crystal,William Tyndale & the English language,abstract_openalex
+101,67,5.0495,0.663366,4.714104,L1,David Crystal,Mengapakah bahasa mati?,abstract_openalex
+144,86,6.4375,0.597222,5.067599,L1,Martin Bygate,"Researching Pedagogic Tasks: Second Language Learning, Teaching, and Testing",abstract_openalex
+106,68,5.4151,0.641509,4.670259,L1,Martin Bygate,Quality of language and purpose of task: patterns of learners’ language on two oral communication tasks,abstract_openalex
+122,67,5.3115,0.54918,4.289235,L1,Martin Bygate,"Sources, developments and directions of task-based language teaching",abstract_openalex
+244,149,5.2336,0.610656,6.744913,L1,Martin Bygate,Some directions for the possible survival of TBLT as a real world project,abstract_openalex
+148,77,5.7973,0.52027,4.475534,L1,Martin Bygate,Language Development of Bilingual Pupils in the Mainstream : How do Pupils and Teachers Use Language?,abstract_openalex
+236,109,5.9449,0.461864,5.017132,L1,Martin Bygate,Strategic planning and repetition as metacognitive processes in task performance,abstract_openalex
+106,71,4.783,0.669811,4.8763,L1,Martin Bygate,Theoretical Perspectives on Speaking,abstract_openalex
+255,142,5.3333,0.556863,6.287866,L1,Martin Bygate,Speaking,abstract_openalex
+110,75,5.7091,0.681818,5.056499,L1,Martin Bygate,A Pedagogical Rationale for Task-Based Language Teaching for the Acquisition of Real-World Language Use,abstract_openalex
+385,200,5.1065,0.519481,7.2075,L1,Martin Bygate,"Applied Linguistics: A Pragmatic Discipline, a Generic Discipline?",abstract_openalex
+157,92,5.5287,0.585987,5.19186,L1,Martin Bygate,Some current trends in applied linguistics,abstract_openalex
+166,98,5.4217,0.590361,5.378449,L1,Martin Bygate,Learning language through task repetition,abstract_openalex
+215,113,5.2977,0.525581,5.449344,L1,Martin Bygate,Units of Oral Expression and Language Learning in Small Group Interaction,abstract_openalex
+184,111,5.2337,0.603261,5.786275,L1,Martin Bygate,Oral Second Language Abilities as Expertise,abstract_openalex
+102,67,5.9706,0.656863,4.690938,L1,Martin Bygate,Exploring the Nuts and Bolts of Task Design,abstract_openalex
+163,94,5.5031,0.576687,5.206178,L1,Martin Bygate,Speaking,abstract_openalex
+193,142,6.0777,0.735751,7.22761,L1,Andrew Goatly,Washing the Brain – Metaphor and Hidden Ideology,abstract_openalex
+104,78,5.7308,0.75,5.408327,L1,Andrew Goatly,The Language of Metaphors,abstract_openalex
+142,97,5.7606,0.683099,5.755891,L1,Andrew Goatly,Meaning and Humour,abstract_openalex
+154,94,5.987,0.61039,5.356147,L1,Andrew Goatly,"Humans, Animals, and Metaphors",abstract_openalex
+232,133,5.2672,0.573276,6.17437,L1,Andrew Goatly,Explorations in Stylistics,abstract_openalex
+209,132,5.5359,0.631579,6.456331,L1,Andrew Goatly,The representation of nature on the BBC World Service,abstract_openalex
+179,119,5.3855,0.664804,6.289345,L1,Andrew Goatly,Register and the redemption of relevance theory,abstract_openalex
+178,120,5.9326,0.674157,6.359987,L1,Andrew Goatly,The poems of Edward Thomas,abstract_openalex
+224,143,5.3571,0.638393,6.756115,L1,Andrew Goatly,Critical Reading and Writing in the Digital Age,abstract_openalex
+213,136,5.9108,0.638498,6.589222,L1,Andrew Goatly,Two Dimensions of Meaning,abstract_openalex
+124,80,5.1048,0.645161,5.080005,L1,Andrew Goatly,Ideology and metaphor,abstract_openalex
+144,100,5.7778,0.694444,5.892557,L1,Andrew Goatly,Critical Reading and Writing,abstract_openalex
+168,100,5.8214,0.595238,5.455447,L1,Andrew Goatly,Conflicting Metaphors in the Hong Kong Special Administrative Region Educational Reform Proposals,abstract_openalex
+239,151,6.0669,0.631799,6.906579,L1,Andrew Goatly,Five themes for ecostylistics,abstract_openalex
+9426,2398,5.2062,0.254403,17.465075,L1,Andrew Goatly,Metaphor and Grammar in the Poetic Representation of Nature,fulltext_pdf_oa
+7370,1929,4.8062,0.261737,15.888521,L1,Andrew Goatly,Lexical priming in humorous discourse,fulltext_pdf_oa
+154,101,5.6494,0.655844,5.755009,L1,Andrew Goatly,Chapter 2. Thematic adverbial adjuncts of place and direction and their relationship to conceptual metaphor in A. E. Housman’s A shropshire lad,abstract_openalex
+10827,2380,4.6915,0.219821,16.173644,L1,Andrew Goatly,"Corpus linguistics, systemic functional grammar and literary meaning: a critical analysis of harry potter and the philosopher’s stone",fulltext_pdf_oa
+133,95,5.7218,0.714286,5.824824,L1,Andrew Goatly,"Metaphor, metonymy and lexicogenesis",abstract_openalex
+144,100,5.7778,0.694444,5.892557,L1,Andrew Goatly,Critical Reading and Writing in the Digital Age: An Introductory Coursebook,abstract_openalex
+252,133,5.7381,0.527778,5.924291,L1,Andrew Goatly,"Ecology, physics, process philosophies, Buddhism, Daoism, and language: A case study of William Golding’s The Inheritors and Pincher Martin",abstract_openalex
+155,102,5.6645,0.658065,5.793211,L1,Andrew Goatly,Thematic adverbial adjuncts of place and direction and their relationship to conceptual metaphor in A. E. Housman’s A Shropshire Lad,abstract_openalex
+157,106,5.4777,0.675159,5.981926,L1,Ken Hyland,Stance and engagement: a model of interaction in academic discourse,abstract_openalex
+167,110,6.1078,0.658683,6.018932,L1,Ken Hyland,Disciplinary Discourses: Social Interactions in Academic Writing,abstract_openalex
+162,105,5.6111,0.648148,5.833333,L1,Ken Hyland,Metadiscourse in Academic Writing: A Reappraisal,abstract_openalex
+123,73,5.3415,0.593496,4.65431,L1,Ken Hyland,Second Language Writing,abstract_openalex
+179,113,5.5978,0.631285,5.972236,L1,Ken Hyland,Feedback on second language students' writing,abstract_openalex
+146,91,5.6781,0.623288,5.325372,L1,Ken Hyland,Hedging in Scientific Research Articles,abstract_openalex
+180,108,5.7833,0.6,5.6921,L1,Ken Hyland,Academic attribution: citation and the construction of disciplinary knowledge,abstract_openalex
+171,102,5.2281,0.596491,5.515528,L1,Ken Hyland,Is There an “Academic Vocabulary”?,abstract_openalex
+141,105,5.9007,0.744681,6.252659,L1,Ken Hyland,Writing Without Conviction? Hedging in Science Research Articles,abstract_openalex
+231,50,6.2814,0.21645,2.326211,L1,Ken Hyland,English for Academic Purposes: An Advanced Resource Book,abstract_openalex
+222,140,6.2072,0.630631,6.644106,L1,Ken Hyland,Feedback in Second Language Writing: Contexts and Issues,abstract_openalex
+163,101,5.9018,0.619632,5.593873,L1,Ken Hyland,"Boosting, hedging and the negotiation of academic knowledge",abstract_openalex
+8834,1658,5.333,0.187684,12.473572,L1,Ken Hyland,Student engagement with teacher and automated feedback on L2 writing,fulltext_pdf_oa
+9566,2153,5.3575,0.225068,15.565528,L1,Ken Hyland,Academic publishing and the myth of linguistic injustice,fulltext_pdf_oa
+190,114,5.5632,0.6,5.848077,L1,Ken Hyland,Exploring Corporate Rhetoric: Metadiscourse in the CEO's Letter,abstract_openalex
+172,103,5.8779,0.598837,5.553388,L1,Ken Hyland,Teaching and Researching Writing,abstract_openalex
+129,96,5.5969,0.744186,5.976699,L1,Ken Hyland,Academic clusters: text patterning in published and postgraduate writing,abstract_openalex
+9732,2311,5.459,0.237464,16.564712,L1,Ken Hyland,Metadiscourse: What is it and where is it going?,fulltext_pdf_oa
+152,106,5.4079,0.697368,6.079517,L1,Jenny Cheshire,"Contact, the feature pool and the speech community: The emergence of Multicultural London English",abstract_openalex
+151,95,5.9073,0.629139,5.466636,L1,Jenny Cheshire,Variation in an English Dialect: A Sociolinguistic Study,abstract_openalex
+204,115,5.4461,0.563725,5.693348,L1,Jenny Cheshire,"Discourse variation, grammaticalisation and stuff like that1",abstract_openalex
+187,132,5.754,0.705882,6.825558,L1,Jenny Cheshire,Taming the Vernacular: From dialect to written standard language,abstract_openalex
+159,88,5.2516,0.553459,4.934795,L1,Jenny Cheshire,Was/were variation: A perspective from London,abstract_openalex
+170,95,5.4,0.558824,5.152098,L1,Jenny Cheshire,Syntactic variation and beyond: Gender and social class variation in the use of discourse‐new markers1,abstract_openalex
+193,102,4.8497,0.528497,5.191663,L1,Jenny Cheshire,Grammaticalisation in social context: The emergence of a new English pronoun,abstract_openalex
+10318,1800,4.996,0.174452,12.53025,L1,Jenny Cheshire,English as a contact language: the role of children and adolescents,fulltext_pdf_oa
+160,104,5.4125,0.65,5.813777,L1,Jenny Cheshire,Code-switching and the sociolinguistic gender pattern,abstract_openalex
+218,125,5.5138,0.573394,5.986414,L1,Jenny Cheshire,"Phonology, grammar, and discourse in dialect convergence",abstract_openalex
+152,103,5.6513,0.677632,5.907455,L1,Jenny Cheshire,Taking the longer view: Explaining Multicultural London English and Multicultural Paris French,abstract_openalex
+223,122,5.1928,0.547085,5.776867,L1,Jenny Cheshire,The origins of new quotative expressions: the case of Paris French,abstract_openalex
+314,150,4.4777,0.477707,5.985652,L1,Jenny Cheshire,Taming the Vernacular: Some Repercussions for the Study of Syntactic Variation and Spoken Grammar = Estandarizando la lengua vernácula: Algunas repercusiones para el estudio de la variación sintáctica y la gramática del habla,abstract_openalex
+249,153,5.257,0.614458,6.856094,L1,Jenny Cheshire,Introduction: sociolinguistics and English around the world,abstract_openalex
+163,89,5.0429,0.546012,4.929254,L1,Jenny Cheshire,English as a cultural symbol: The case of advertisements in French‐speaking Switzerland,abstract_openalex
+162,70,5.7901,0.432099,3.888889,L1,Jenny Cheshire,Dialect and Education: Some European Perspectives,abstract_openalex
+128,80,5.4453,0.625,5.0,L1,Jenny Cheshire,The telling or the tale? Narratives and gender in adolescent friendship networks,abstract_openalex
+177,99,5.2825,0.559322,5.261791,L1,Peter Ladefoged,Information Conveyed by Vowels,abstract_openalex
+165,95,7.2364,0.575758,5.229578,L1,Peter Ladefoged,Phonetic Data Analysis: An Introduction to Fieldwork and Instrumental Techniques,abstract_openalex
+162,98,5.7963,0.604938,5.444444,L1,Peter Ladefoged,Elements of Acoustic Phonetics,abstract_openalex
+689,300,4.7852,0.435414,8.081587,L1,Peter Ladefoged,Another View of Endangered Languages,abstract_openalex
+162,102,5.5494,0.62963,5.666667,L1,Peter Ladefoged,Individual differences in vowel production,abstract_openalex
+205,115,5.1854,0.560976,5.679445,L1,Peter Ladefoged,An Acoustic Study of the Tongue Root Contrast in Degema Vowels,abstract_openalex
+118,79,6.2458,0.669492,5.142462,L1,Peter Ladefoged,Binary suprasegmental features and transformational word-accentuation rules,abstract_openalex
+107,76,5.7103,0.71028,5.195253,L1,Peter Ladefoged,Stops in the World’s Languages,abstract_openalex
+109,80,5.8257,0.733945,5.418284,L1,Peter Ladefoged,Phonetic Structures of Scottish Gaelic,abstract_openalex
+102,71,5.0392,0.696078,4.970994,L1,Peter Ladefoged,The Status of Phonetic Rarities,abstract_openalex
+2375,733,5.7806,0.308632,10.635482,L1,Peter Ladefoged,Laterals and trills,fulltext_pdf_oa
+221,124,4.8643,0.561086,5.898079,L1,J. R. R. Tolkien,"The Monsters and the Critics, and Other Essays",abstract_openalex
+157,97,4.3567,0.617834,5.474027,L1,J. R. R. Tolkien,The Fellowship of the Ring: Being the First Part of The Lord of the Rings,abstract_openalex
+149,97,4.6577,0.651007,5.619059,L1,J. R. R. Tolkien,"Sir Gawain and the Green Knight, Pearl, and Sir Orfeo",abstract_openalex
+180,122,4.8444,0.677778,6.429965,L1,J. R. R. Tolkien,The Return of the King: Being the Third Part of the Lord of the Rings,abstract_openalex
+213,135,4.2629,0.633803,6.540771,L1,J. R. R. Tolkien,The letters of J.R.R. Tolkien : a selection,abstract_openalex
+164,102,4.3598,0.621951,5.632008,L1,J. R. R. Tolkien,The Two Towers: Being the Second Part of The Lord of the Rings,abstract_openalex
+370,210,4.5135,0.567568,7.719754,L1,J. R. R. Tolkien,"Beowulf: A Translation and Commentary, Together with Sellic Spell",abstract_openalex
+689,329,4.7199,0.477504,8.862807,L1,J. R. R. Tolkien,The Reeve's Tale: Version Prepared for Recitation at the 'Summer Diversions' Oxford: 1939,abstract_openalex
+349,170,4.9513,0.487106,6.434595,L1,J. R. R. Tolkien,The History of The Hobbit,abstract_openalex
+673,349,4.8915,0.518574,9.51268,L1,J. R. R. Tolkien,"""The Story of Kullervo"" and Essays on Kalevala",abstract_openalex
+137,73,5.2263,0.532847,4.410091,L1,J. R. R. Tolkien,Beowulf and the Critics,abstract_openalex
+322,167,4.7081,0.518634,6.580722,L1,Thomas Young,III. An essay on the cohesion of fluids,abstract_openalex
+197,118,5.0914,0.598985,5.944754,L1,Thomas Young,II. The Bakerian Lecture. On the theory of light and colours,abstract_openalex
+141,88,5.234,0.624113,5.240324,L1,Thomas Young,"An Account of Some Recent Discoveries in Hieroglyphical Literature and Egyptian Antiquities : Including the Author's Original Alphabet, as Extended by Mr. Champollion, with a Translation of Five Unpublished Greek and Egyptian Manuscripts",abstract_openalex
+243,146,4.6914,0.600823,6.622694,L1,Thomas Young,"VII. Outlines of experiments and inquiries respecting sound and light. By Thomas Young, M. D. F. R. S. In a letter to Edward Whitaker Gray, M. D. Sec. R. S",abstract_openalex
+240,140,5.7708,0.583333,6.390097,L1,Thomas Young,The Bakerian Lecture. Experiments and calculations relative to physical optics,abstract_openalex
+178,120,4.9326,0.674157,6.359987,L1,Thomas Young,The Bakerian lecture. On the theory of light and colours,abstract_openalex
+397,234,5.2317,0.589421,8.304349,L1,Thomas Young,The History of Southern Literature,abstract_openalex
+404,226,5.1139,0.559406,7.950652,L1,Thomas Young,Gentleman in a Dustcoat: A Biography of John Crowe Ransom.,abstract_openalex
+220,133,5.7318,0.604545,6.340526,L1,Lorella Viola,"Mining ethnicity: Discourse-driven topic modelling of immigrant discourses in the USA, 1898–1920",abstract_openalex
+229,143,5.8734,0.624454,6.681951,L1,Lorella Viola,Migration and Media,abstract_openalex
+13323,2614,5.2992,0.196202,16.013622,L1,Lorella Viola,One Hundred Years of Migration Discourse in The Times: A Discourse-Historical Word Vector Space Approach to the Construction of Meaning,fulltext_pdf_oa
+199,128,6.5176,0.643216,6.41606,L1,Lorella Viola,Multilingual Digital Humanities,abstract_openalex
+272,150,5.75,0.551471,6.431197,L1,Lorella Viola,Networks of Migrants’ Narratives: A Post-authentic Approach to Heritage Visualisation,abstract_openalex
+7421,1844,5.2292,0.248484,15.136125,L1,Lorella Viola,On the use of sentiment analysis for linguistics research. Observations on sentiment polarity and the use of the progressive in Italian,fulltext_pdf_oa
+155,97,5.5355,0.625806,5.50923,L1,Lorella Viola,"The Media Construction of Italian Identity: A Transatlantic, Digital Humanities Analysis of italianità , Ethnicity, and Whiteness, 1867-1920",abstract_openalex
+11274,2535,5.0888,0.224854,16.882002,L1,Lorella Viola,"“Italy, for Example, Is Just Incredibly Stupid Now”. European Crisis Narrations in Relation to Italy's Response to COVID-19",fulltext_pdf_oa
+7082,1690,5.219,0.238633,14.200177,L1,Lorella Viola,Stai scherzando? ‘Are you kidding?’: Investigating the influence of dubbing on the Italian Progressive,fulltext_pdf_oa
+187,117,5.9144,0.625668,6.049926,L1,Lorella Viola,ChroniclItaly and ChroniclItaly 2.0: Digital Heritage to Access Narratives of Migration,abstract_openalex
+152,104,5.8816,0.684211,5.964809,L1,Lorella Viola,Polentone vs terrone,abstract_openalex
+195,112,5.8308,0.574359,5.67134,L1,Lorella Viola,Introducing discourse-driven text mining,abstract_openalex
+144,100,5.5764,0.694444,5.892557,L1,Lorella Viola,Introduction,abstract_openalex
+14182,2793,5.4613,0.19694,16.58392,L1,Lorella Viola,"Using word vector models to trace conceptual change over time and space in historical newspapers, 1840–1914",fulltext_pdf_oa
+201,117,5.2935,0.58209,5.83543,L1,Lorella Viola,A corpus-based investigation of language change in Italian,abstract_openalex
+152,100,5.5,0.657895,5.735393,L1,Lorella Viola,On the diachrony ofgiusto?(‘right?’) in Italian,abstract_openalex
+169,107,5.0355,0.633136,5.820033,L1,Lorella Viola,On the use ofsì?(‘yes?’) as invariant follow-up in Italian,abstract_openalex
+106,76,5.8774,0.716981,5.219701,L1,Lorella Viola,"Replication, evaluation and quantitative analysis in the DH era: Transparent digital practices and lessons learned from the development of the GeoNewsMiner",abstract_openalex
+177,110,5.2655,0.621469,5.846434,L1,Lorella Viola,From linguistic innovation to language change,abstract_openalex
+299,170,5.2676,0.568562,6.951817,L1,Lorella Viola,The GeoNewsMiner: An interactive spatial humanities tool to visualize geographical references in historical newspapers,abstract_openalex
+236,149,5.6314,0.631356,6.858281,L1,Lorella Viola,"ChroniclItaly 3.0. A deep-learning, contextually enriched digital heritage collection of Italian immigrant newspapers published in the USA, 1898-1936.",abstract_openalex
+3092,919,6.0162,0.297219,11.686401,L1,Lorella Viola,Editorial: Data and Workflows for Multilingual Digital Humanities,fulltext_pdf_oa
+301,183,5.2458,0.607973,7.458523,L1,Lorella Viola,"ChroniclItaly 2.0. A corpus of Italian American newspapers annotated for entities, 1898-1920.",abstract_openalex
+2975,1093,5.6551,0.367395,14.169733,L1,Lorella Viola,The Role of Research Infrastructures in the Research Assessment Reform: A DARIAH Position Paper,fulltext_pdf_oa
+6936,1592,5.7401,0.229527,13.516789,L1,Barry Tomalin,Linguo-cultural competence as a cornerstone of translators’ performance in the domain of intercultural business communication,fulltext_pdf_oa
+6377,1479,5.7166,0.231927,13.09619,L1,Barry Tomalin,Communicative strategies and tactics of speech manipulation in intercultural business discourse,fulltext_pdf_oa
+6475,1708,5.7146,0.263784,15.009042,L1,Barry Tomalin,Syntactic Constructions Featuring Multifunctional Sentence Components in the Language of Modern Business Media,fulltext_pdf_oa
+263,150,5.2548,0.570342,6.540311,L1,Barry Tomalin,The Worlds Business Cultures and How to Unlock Them,abstract_openalex
+1586,677,5.162,0.42686,12.020487,L1,Barry Tomalin,Don’t believe a word: the surprising truth about language,fulltext_pdf_oa
+106,73,5.2453,0.688679,5.013661,L1,Barry Tomalin,Leadership Across Cultures,abstract_openalex
+6489,1595,4.9618,0.245801,14.000927,L1,Barry Tomalin,Culture shock and student engagement,fulltext_pdf_oa
+123,83,5.3659,0.674797,5.291887,L1,Barry Tomalin,Cultural Diplomacy and Nation Branding,abstract_openalex
+1625,587,5.4923,0.361231,10.296661,L1,Barry Tomalin,From principles to practice in education for intercultural citizenship. A review,fulltext_pdf_oa
+1521,640,5.0901,0.420776,11.603804,L1,Barry Tomalin,"Diplomatic protocol: Etiquette, statecraft and trust. A review",fulltext_pdf_oa
+109,78,5.3119,0.715596,5.282827,L1,Barry Tomalin,Key Thinkers in Cross-Cultural Communication (1),abstract_openalex
+144,94,5.1597,0.652778,5.539003,L1,Barry Tomalin,Teaching Cross-Cultural Communication,abstract_openalex
+147,107,5.0748,0.727891,6.240367,L1,Barry Tomalin,Multiculturalism and Diversity,abstract_openalex
+1728,675,5.0029,0.390625,11.481983,L1,Barry Tomalin,Breaking news: The remaking of journalism and why it matters now. A review,fulltext_pdf_oa
+1859,682,5.2873,0.366864,11.184838,L1,Barry Tomalin,"Taking Chinese to the world: Language, culture and identity in Confucius Institute teachers. A review",fulltext_pdf_oa
+6074,1513,5.1829,0.249095,13.727345,L1,Barry Tomalin,Writing diplomatically: Managing potential conflict,fulltext_pdf_oa
+7051,1771,5.4004,0.25117,14.913453,L1,Barry Tomalin,Key Creative Features of Syntactic Design in English-Language Advertising Discourse,fulltext_pdf_oa
+1654,659,5.1348,0.398428,11.457838,L1,Barry Tomalin,Peacebuilding in language education: Innovations in theory and practice (a review),fulltext_pdf_oa
+169,99,5.8935,0.585799,5.38489,L1,Dave Hill,Global Neoliberalism and Education and its Consequences,abstract_openalex
+208,117,5.7548,0.5625,5.736397,L1,Dave Hill,"Global neo-liberalism, the deformation of education and resistance.",abstract_openalex
+147,92,6.2381,0.62585,5.365549,L1,Dave Hill,Marxism Against Postmodernism in Educational Theory,abstract_openalex
+164,98,5.561,0.597561,5.411145,L1,Dave Hill,"Books, Banks and Bullets: Controlling Our Minds — The Global Project of Imperialistic and Militaristic Neo-Liberalism and its Effect on Education Policy",abstract_openalex
+162,88,5.7778,0.54321,4.888889,L1,Dave Hill,"Critical Teacher Education, New Labour, and the Global Project of Neoliberal Capital",abstract_openalex
+218,128,5.4679,0.587156,6.130088,L1,Dave Hill,"Class, Capital, and Education in this Neoliberal and Neoconservative Period",abstract_openalex
+160,87,5.875,0.54375,4.863448,L1,Dave Hill,"Globalisation and Its Educational Discontents: Neoliberalisation and its impacts on education workers' rights, pay and conditions",abstract_openalex
+163,114,5.4847,0.699387,6.313876,L1,Dave Hill,Revolutionizing Pedagogy: Education for Social Justice Within and Beyond Global Neo-Liberalism,abstract_openalex
+437,227,5.4966,0.519451,7.67839,L1,Dave Hill,Neoliberalization and managerialization of 'education' in England and Wales: a case for reconstructing education,abstract_openalex
+257,140,5.6693,0.544747,6.175135,L1,Dave Hill,"Immiseration Capitalism, Activism and Education: Resistance, Revolt and Revenge",abstract_openalex
+204,101,5.3873,0.495098,5.000245,L1,Dave Hill,The Culturalization of Class and the Occluding of Class Consciousness: The Knowledge Industry in/of Education,abstract_openalex
+15623,3070,5.3894,0.196505,17.367654,L1,Dave Hill,"Critical teacher education for economic, environmental and social justice: an ecosocialist manifesto.",fulltext_pdf_oa
+190,115,5.7579,0.605263,5.899376,L1,Dave Hill,"Class, neoliberal global capital, education and resistance",abstract_openalex
+9414,1792,5.0683,0.190355,13.059781,L1,Dave Hill,Race and Class in Britain: A Critique of the Statistical Basis for Critical Race Theory in Britain: And Some Political Implications.,fulltext_pdf_oa
+18573,3597,5.3005,0.193668,18.663127,L1,Dave Hill,Educational Perversion and Global Neo-Liberalism,fulltext_pdf_oa
+100,62,5.94,0.62,4.384062,L1,Dave Hill,"Immiseration Capitalism and Education: Austerity, Resistance and Revolt",abstract_openalex
+206,115,5.7913,0.558252,5.665643,L1,Dave Hill,"O neoliberalismo global, a resistencia e a deformacao da educacao",abstract_openalex
+18573,3597,5.3005,0.193668,18.663127,L1,Dave Hill,Educational perversion and global neo-liberalism: a Marxist critique.,fulltext_pdf_oa
+220,127,5.9,0.577273,6.054487,L1,Dave Hill,"Embourgeoisment, Immiseration, Commodification?????????Marxism Revisited: A Critique of Education in Capitalist Systems",abstract_openalex
+139,94,5.4964,0.676259,5.637745,L1,Guy Cook,The Discourse of Advertising,abstract_openalex
+108,71,5.0741,0.657407,4.830938,L1,Guy Cook,"Language play, language learning",abstract_openalex
+282,191,5.9681,0.677305,8.042551,L1,Guy Cook,Principle and Practice in Applied Linguistics: Studies in Honour of H. G. Widdowson,abstract_openalex
+216,113,5.5324,0.523148,5.436715,L1,Guy Cook,Own-language use in language teaching and learning,abstract_openalex
+132,86,5.2803,0.651515,5.292934,L1,Guy Cook,The uses of reality: a reply to Ronald Carter,abstract_openalex
+143,102,5.4545,0.713287,6.031386,L1,Guy Cook,Overlooked issues of religious identity in the school dinners debate,abstract_openalex
+175,116,5.7543,0.662857,6.200461,L1,Guy Cook,‘The Scientists Think and the Public Feels’: Expert Perceptions of the Discourse of GM Food,abstract_openalex
+358,165,6.2989,0.460894,6.16634,L1,Guy Cook,Discourse and Literature: The Interplay of Form and Mind,abstract_openalex
+237,126,5.1097,0.531646,5.787372,L1,Guy Cook,"“Words of mass destruction”: British newspaper coverage of the genetically modified food debate, expert and non-expert reactions",abstract_openalex
+247,149,5.4939,0.603239,6.703827,L1,Guy Cook,‘A pig is a person’ or ‘You can love a fox and hunt it’: Innovation and tradition in the discursive representation of animals,abstract_openalex
+203,123,5.5468,0.605911,6.104388,L1,Guy Cook,"ELF and translation and interpreting: common ground, common interest, common cause",abstract_openalex
+201,140,5.801,0.696517,6.982565,L1,Guy Cook,“But it's all true!”: commercialism and commitment in the discourse of organic food promotion,abstract_openalex
+274,163,5.3796,0.594891,6.963015,L1,Guy Cook,Genetically Modified Language,abstract_openalex
+216,113,5.5324,0.523148,5.436715,L1,Guy Cook,Own-language use in language teaching and learning: state of the art,abstract_openalex
+153,104,5.817,0.679739,5.945284,L1,Guy Cook,Rewritten rites: language and social relations in traditional and contemporary funerals,abstract_openalex
+297,157,5.4074,0.52862,6.441788,L1,Guy Cook,British applied linguistics: impacts of and impacts on,abstract_openalex
+104,73,6.2692,0.701923,5.061639,L1,Guy Cook,The Discursive Representation of Animals,abstract_openalex
+175,100,5.0171,0.571429,5.345225,L1,Guy Cook,'The philosopher pulled the lower jaw of the hen'. Ludicrous invented sentences in language teaching,abstract_openalex
+160,109,5.325,0.68125,6.093285,L1,Guy Cook,Genetically Modified Language: The Discourse of Arguments for GM Crops and Food,abstract_openalex
+181,106,5.337,0.585635,5.571236,L1,Guy Cook,Extensive own-language use: a case study of tertiary English language teaching in China,abstract_openalex
+154,92,5.7468,0.597403,5.242187,L1,Guy Cook,"Calm seas or troubled waters? Transitions, definitions and disagreements in applied linguistics",abstract_openalex
+109,86,5.4037,0.788991,5.824655,L1,Guy Cook,"Sweet talking: Food, language, and democracy",abstract_openalex
+128,86,5.8281,0.671875,5.375,L1,Guy Cook,The discourse of advertising. 2nd edition,abstract_openalex
+141,93,5.0638,0.659574,5.538069,L1,Ronald Carter,From Corpus to Classroom,abstract_openalex
+141,93,5.0638,0.659574,5.538069,L1,Ronald Carter,From Corpus to Classroom: Language Use and Language Teaching,abstract_openalex
+163,102,6.9939,0.625767,5.649258,L1,Ronald Carter,Language as Discourse. Perspectives for Language Teaching,abstract_openalex
+182,115,5.2912,0.631868,6.027638,L1,Ronald Carter,Grammar and the Spoken Language,abstract_openalex
+114,91,5.8947,0.798246,6.026622,L1,Ronald Carter,Exploring spoken English,abstract_openalex
+381,203,4.9134,0.532808,7.353914,L1,Ronald Carter,Vocabulary: Applied Linguistic Perspectives,abstract_openalex
+109,69,5.1101,0.633028,4.67327,L1,Ronald Carter,"Orders of reality: CANCODE, communication, and culture",abstract_openalex
+204,118,5.8578,0.578431,5.841871,L1,Ronald Carter,Ventromedial Prefrontal Cortex Encodes Emotional Value,abstract_openalex
+203,121,5.7685,0.596059,6.005129,L1,Ronald Carter,Activation in the VTA and nucleus accumbens increases in anticipation of both gains and losses,abstract_openalex
+127,81,5.7638,0.637795,5.082392,L1,Ronald Carter,The role of input flood and input enhancement in EFL learners' acquisition of collocations,abstract_openalex
+186,115,5.6183,0.61828,5.962472,L1,Ronald Carter,Spoken Grammar: Where Are We and Where Are We Going?,abstract_openalex
+221,127,5.457,0.574661,6.040774,L1,Ronald Carter,Language and Creativity,abstract_openalex
+265,135,5.3509,0.509434,5.864025,L1,Ronald Carter,Spoken Corpus Linguistics,abstract_openalex
+160,103,5.5375,0.64375,5.757875,L1,Ronald Carter,Functional neuroimaging of intertemporal choice models: A review.,abstract_openalex
+143,104,6.3636,0.727273,6.149649,L1,Ronald Carter,"Language, Literature and the Learner: Creative Classroom Practice",abstract_openalex
+164,97,6.0122,0.591463,5.355929,L1,Ronald Carter,Vocabulary,abstract_openalex
+125,84,5.584,0.672,5.312626,L1,Ronald Carter,"Common language: corpus, creativity and cognition",abstract_openalex
+186,120,4.9946,0.645161,6.22171,L1,Michael Hoey,Lexical Priming: A New Theory of Words and Language,abstract_openalex
+576,194,5.8611,0.336806,5.71578,L1,Michael Hoey,Patterns of Lexis In Text,abstract_openalex
+117,82,4.8462,0.700855,5.360508,L1,Michael Hoey,Lexical Priming,abstract_openalex
+102,62,6.2451,0.607843,4.340868,L1,Michael Hoey,"Text, Discourse and Corpora: Theory and Analysis",abstract_openalex
+108,81,5.4074,0.75,5.511352,L1,Michael Hoey,"Exploring text-initial words, clusters and concgrams in a newspaper corpus",abstract_openalex
+108,74,5.4352,0.685185,5.035062,L1,Michael Hoey,Corpus-driven approaches to grammar,abstract_openalex
+114,76,5.8684,0.666667,5.033223,L1,Michael Hoey,Strategies of writing summaries for hard news texts: A text analysis approach,abstract_openalex
+132,79,5.75,0.598485,4.862114,L1,Michael Hoey,The internationalisation of higher education: some ethical implications,abstract_openalex
+194,103,5.134,0.530928,5.229033,L1,Michael Hoey,Cohesion and coherence in a content-specific corpus,abstract_openalex
+163,98,4.9325,0.601227,5.427718,L1,Michael Hoey,A clause-relational analysis of selected dictionary entries: Contrast and compatibility in the definitions of ‘man’ and ‘woman’,abstract_openalex
+136,90,5.3824,0.661765,5.457052,L1,Michael Hoey,Leveraging collective knowledge,abstract_openalex
+196,120,5.5765,0.612245,6.060915,L1,Michael Hoey,Lexical Priming: The Odd Case of a Psycholinguistic Theory that Generates Corpus-Linguistic Hypotheses for Both English and Chinese,abstract_openalex
+275,149,5.1782,0.541818,6.353381,L1,Michael Hoey,"Chapter 5. Examining associations between lexis and textual position in hard news stories, or according to a study by…",abstract_openalex
+330,140,6.9848,0.424242,5.449493,L1,H. G. Widdowson,Teaching Language as Communication,abstract_openalex
+100,65,4.72,0.65,4.596194,L1,H. G. Widdowson,The Ownership of English,abstract_openalex
+128,83,5.3359,0.648438,5.1875,L1,H. G. Widdowson,Stylistics and the Teaching of Literature,abstract_openalex
+140,82,5.4786,0.585714,4.900437,L1,H. G. Widdowson,Discourse analysis: a critical view,abstract_openalex
+282,191,5.9681,0.677305,8.042551,L1,H. G. Widdowson,Principle and Practice in Applied Linguistics: Studies in Honour of H. G. Widdowson,abstract_openalex
+206,117,5.2816,0.567961,5.764176,L1,H. G. Widdowson,On the limitations of linguistics applied,abstract_openalex
+214,131,4.743,0.61215,6.332124,L1,H. G. Widdowson,"Context, Community, and Authentic Language",abstract_openalex
+124,77,5.5403,0.620968,4.889505,L1,H. G. Widdowson,Knowledge of Language and Ability for Use,abstract_openalex
+313,177,5.0735,0.565495,7.074343,L1,H. G. Widdowson,"EIL, ESL, EFL: Global Issues and Local Interests",abstract_openalex
+225,130,4.9733,0.577778,6.128259,L1,H. G. Widdowson,ELF and the inconvenience of established concepts,abstract_openalex
+148,90,5.0946,0.608108,5.231144,L1,H. G. Widdowson,Innovation in Teacher Development,abstract_openalex
+3551,912,4.8874,0.256829,10.821925,L1,H. G. Widdowson,The cultural and creative use of English as a Lingua Franca,fulltext_pdf_oa
+272,151,5.2721,0.555147,6.474072,L1,H. G. Widdowson,Roles of Teachers and Learners,abstract_openalex
+141,91,5.0922,0.64539,5.418971,L1,H. G. Widdowson,Accommodation and the Idiom Principle in English as a Lingua Franca,abstract_openalex
+133,90,5.2632,0.676692,5.518254,L1,H. G. Widdowson,"Skills, Abilities, and Contexts of Reality",abstract_openalex
+178,83,6.1124,0.466292,4.398991,L1,Christopher Brumfit,Literature and language teaching,abstract_openalex
+103,64,5.9029,0.621359,4.459091,L1,Christopher Brumfit,English for international communication,abstract_openalex
+176,109,4.7614,0.619318,5.80972,L1,Christopher Brumfit,A European Perspective on Language as Liminality,abstract_openalex
+119,97,5.6975,0.815126,6.287576,L1,Christopher Brumfit,The Braid of Literature: Children's Worlds of Reading,abstract_openalex
+148,102,5.75,0.689189,5.92863,L1,Christopher Brumfit,How applied linguistics is the same as any other science,abstract_openalex
+116,62,6.3534,0.534483,4.070499,L1,Christopher Brumfit,Individual freedom in language teaching : helping learners to develop a dialect of their own,abstract_openalex
+117,81,5.6154,0.692308,5.295136,L1,Christopher Brumfit,Language and Higher Education,abstract_openalex
+360,185,5.3806,0.513889,6.894543,L1,Christopher Brumfit,"‘Knowledge about Language’: policy, rationales and practices",abstract_openalex
+142,86,6.0986,0.605634,5.103161,L1,Christopher Brumfit,Language study in higher education and the development of criticality1,abstract_openalex
+114,84,5.9649,0.736842,5.563036,L1,Christopher Brumfit,Research in the language classroom : 1989,abstract_openalex
+165,101,5.1515,0.612121,5.559867,L1,Christopher Brumfit,From Defining to Designing: Communicative Specifications versus Communicative Methodology in Foreign Language Teaching,abstract_openalex
+148,101,5.9865,0.682432,5.870506,L1,Catherine Walter,Foreign Language Learning Motivation in Higher Education: A Longitudinal Study of Motivational Changes and Their Causes,abstract_openalex
+197,109,5.5838,0.553299,5.491341,L1,Catherine Walter,A systematic review of CALL in English as a second language: Focus on primary and secondary education,abstract_openalex
+200,119,5.8,0.595,5.95,L1,Catherine Walter,Phonology in Second Language Reading: Not an Optional Extra,abstract_openalex
+127,80,5.4173,0.629921,5.019646,L1,Catherine Walter,"First‐ to second‐language reading comprehension: not transfer, but access1",abstract_openalex
+154,120,5.7727,0.779221,6.837635,L1,Catherine Walter,Misunderstanding comprehension,abstract_openalex
+123,84,5.3902,0.682927,5.355644,L1,Catherine Walter,The Cambridge English course,abstract_openalex
+187,128,5.2941,0.684492,6.618722,L1,Catherine Walter,A response to Jonathan Newton,abstract_openalex
+227,126,5.8546,0.555066,5.913473,L1,Catherine Walter,French speakers,abstract_openalex
+127,96,4.9606,0.755906,6.023576,L1,Catherine Walter,Authentic reading : teacher's book and key,abstract_openalex
+9026,1998,5.0008,0.221361,14.870748,L1,Catherine Walter,English and Malay Text Messages and What They Say about Texts and Cultures,fulltext_pdf_oa
+136863,10005,5.23,0.073102,19.123134,L1,Catherine Walter,Do New Technologies Facilitate the Acquisition of Reading Skills? : A Systematic Review of the Research Evidence,fulltext_pdf_oa
+141,61,7.4113,0.432624,3.632497,L1,Rod Ellis,The Study of Second Language Acquisition,abstract_openalex
+101,64,5.0891,0.633663,4.503024,L1,Rod Ellis,The Study of Second Language Acquisition,abstract_openalex
+139,92,5.7986,0.661871,5.517793,L1,Rod Ellis,Materials Development in Language Teaching,abstract_openalex
+12263,1891,5.284,0.154204,12.074751,L1,Rod Ellis,IMPLICIT AND EXPLICIT CORRECTIVE FEEDBACK AND THE ACQUISITION OF L2 GRAMMAR,fulltext_pdf_oa
+14087,2191,5.3545,0.155533,13.053234,L1,Rod Ellis,MEASURING IMPLICIT AND EXPLICIT KNOWLEDGE OF A SECOND LANGUAGE: A Psychometric Study,fulltext_pdf_oa
+134,81,5.1119,0.604478,4.947862,L1,Rod Ellis,Task‐based language teaching: sorting out the misunderstandings,abstract_openalex
+148,90,5.1689,0.608108,5.231144,L1,Rod Ellis,Current Issues in the Teaching of Grammar: An SLA Perspective,abstract_openalex
+144,79,5.6875,0.548611,4.65512,L1,Rod Ellis,Introduction: Investigating Form‐Focused Instruction,abstract_openalex
+114,72,5.1754,0.631579,4.768316,L1,Rod Ellis,Corrective Feedback and Teacher Development,abstract_openalex
+265,155,5.8528,0.584906,6.73277,L1,Rod Ellis,Exploring Language Pedagogy through Second Language Acquisition Research,abstract_openalex
+174,94,5.9253,0.54023,5.038929,L1,Rod Ellis,Learning a Second Language through Interaction,abstract_openalex
+252,125,5.6151,0.496032,5.567943,L1,Rod Ellis,Task-based research and language pedagogy,abstract_openalex
+118,66,5.0763,0.559322,4.296234,L1,Rod Ellis,Learner Uptake in Communicative ESL Lessons,abstract_openalex
+172,104,5.3372,0.604651,5.607304,L1,Rod Ellis,Planning and Task Performance in a Second Language,abstract_openalex
+119,67,5.042,0.563025,4.342965,L1,Rod Ellis,"The Differential Effects of Three Types of Task Planning on the Fluency, Complexity, and Accuracy in L2 Oral Production",abstract_openalex
+211,113,5.1469,0.535545,5.500754,L1,Rod Ellis,The Structural Syllabus and Second Language Acquisition,abstract_openalex
+141,76,5.5035,0.539007,4.525734,L1,Rod Ellis,The Definition and Measurement of L2 Explicit Knowledge,abstract_openalex
+148,107,5.6216,0.722973,6.219249,L1,Henry Sweet,"A handbook of phonetics, including a popular exposition of the principles of spelling reform",abstract_openalex
+143,90,4.6573,0.629371,5.321812,L1,Henry Sweet,A History of English Sounds from the Earliest Period: With Full Word-Lists,abstract_openalex
+148,107,5.6216,0.722973,6.219249,L1,Henry Sweet,A Handbook of Phonetics,abstract_openalex
+143,90,4.6573,0.629371,5.321812,L1,Henry Sweet,A History of English Sounds from the Earliest Period,abstract_openalex
+169,104,4.5799,0.615385,5.656854,L1,Henry Sweet,XII.–DIALECTS AND PREHISTORIC FORMS OF OLD ENGLISH.,abstract_openalex
+307,161,4.3453,0.52443,6.497431,L1,Robert Atkinson,"The Passions and the Homilies from Leabhar Breac: Text, Translation, and Glossary (1887)",paragraphs_book_source
+52,49,7.5,0.942308,4.804845,L2,,L2_TUR_001,student_essay_sample
+40,39,7.8,0.975,4.360333,L2,,L2_SPA_001,student_essay_sample
